@@ -1,6 +1,6 @@
-# charla
+# Talsk
 
-A new Flutter project.
+whit this flutter project you can see footbal players on PSG
 
 ## Getting Started
 
